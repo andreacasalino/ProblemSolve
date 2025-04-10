@@ -1,0 +1,4 @@
+#ScaleName,Left,Right
+B1,10,B2
+B2,B3,4
+B3,7,8

@@ -1,0 +1,7 @@
+B1,10,B2
+B2,B3,4
+B3,7,8
+# another root, identical to the previous
+B4,10,B5
+B5,B6,4
+B6,7,8

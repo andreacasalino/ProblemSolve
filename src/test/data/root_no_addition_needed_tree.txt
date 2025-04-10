@@ -1,0 +1,5 @@
+root,left,right
+childA,2,2
+left,5,childA
+childB,2,2
+right,childB,5
